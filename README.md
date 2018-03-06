@@ -1,6 +1,7 @@
-# pylolauth
+# League of Legends Auto Logger
 
-Auto logging for League of Legends client written in python3
+Auto logging for League of Legends client written in python3.  
+You must have your username set and make sure "Remember Me" is checked.
 
 ![example of use](https://i.imgur.com/ZOIwkzK.gif)
 ----------
