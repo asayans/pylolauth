@@ -17,7 +17,7 @@ time.sleep(5.5)
 keyboard = Controller()
 
 # Type password
-for a in "$your password$":
+for a in pass:
 	keyboard.press(a)
 	keyboard.release(a)
 
