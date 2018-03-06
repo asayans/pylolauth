@@ -2,7 +2,7 @@
 
 Auto logging for League of Legends client written in python3
 
-![example of use](https://i.imgur.com/ZOIwkzK.gifv)
+![example of use](https://i.imgur.com/ZOIwkzK.gif)
 ----------
 
 ## HowTo
