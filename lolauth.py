@@ -6,7 +6,7 @@ import subprocess
 pass = "$your password goes here$"
 
 # For example: \Riot Games\League of Legends\LeagueClient.exe
-subprocess.call(['$path to your LeagueClient.exe$'])
+subprocess.Popen(['$path to your LeagueClient.exe$'])
 
 # Wait until client is fully launched so 
 # we can star typing the password field.
