@@ -1,3 +1,7 @@
+DEPRECATED
+
+<former description>
+ 
 # League of Legends Auto Logger
 
 Auto logging for League of Legends client written in python3.  
