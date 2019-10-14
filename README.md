@@ -1,4 +1,5 @@
-DEPRECATED
+# DEPRECATED
+This repository is not being updated anymore as the new LoL launcher already has a "Keep me signed in" option.
 
 <former description>
  
